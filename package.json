@@ -1,0 +1,33 @@
+{
+  "name": "trabalhofinal-ppi-main",
+  "version": "1.0.0",
+  "description": "Trabalho Final",
+  "keywords": [
+    "session",
+    "get",
+    "post",
+    "http",
+    "cookie"
+  ],
+  "homepage": "https://github.com/Arthuroc-jpg/TrabalhoFinal-PPI#readme",
+  "bugs": {
+    "url": "https://github.com/Arthuroc-jpg/TrabalhoFinal-PPI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arthuroc-jpg/TrabalhoFinal-PPI.git"
+  },
+  "license": "ISC",
+  "author": "Arthur",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0"
+  }
+}
